@@ -687,7 +687,6 @@ make -j4
 
 例如：
 - 在 /root 下创建 gpsp 文件夹，将 gpsp、gba_bios.bin、game_config.txt 复制到 gpsp 文件夹中
-- 在 /root 下创建 fceux 文件夹，将 fceux 复制到 fceux 文件夹中
 
 ## 系统配置
 
